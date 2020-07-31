@@ -4,16 +4,16 @@
 
 ## Description 📝
 
-_A Audio Recorder in Expo SDK 38. It is a example of use API Audio to Record Audio in Android and IOS._
+**A Audio Recorder in Expo SDK 38. It is a example of use API Audio to Record Audio in Android and IOS.**
 
 ## Use
 
-[] Have Expo CLI in machine (For precaution)
-[] Access the root project  
-[] Run `npm i` or `yarn install`(Recommended)  
-[] Later, run `npm run start` or `yarn start`  
-[] Open Expo App in device Android or IOS  
+:white_check_mark: **Have Expo CLI in machine (For precaution)**  
+:white_check_mark: **Access the root project**  
+:white_check_mark: **Run `npm i` or `yarn install`(Recommended)**  
+:white_check_mark: **Later, run `npm run start` or `yarn start`**  
+:white_check_mark: **Open Expo App in device Android or IOS**  
 
 ## Credits
 
-Based in [audio-recording-example](https://github.com/expo/audio-recording-example) of the Expo Repository.
+:recycle: Based in [audio-recording-example](https://github.com/expo/audio-recording-example) of the Expo Repository.
