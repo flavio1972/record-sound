@@ -1,4 +1,4 @@
-<code><img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" width="30%"></code>
+<code><img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" width="5%"></code>
 
 # Record Sound :microphone:
 
